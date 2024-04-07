@@ -9,6 +9,7 @@ This project aims to facilitate the conversion of natural human language queries
 - Database Interaction: The generated SQL queries are executed against a specified database, and the results are returned in a plain text format for easy understanding.
 
 <h3>Usage</h3>
+
 - Input: Users provide a natural language query as input to the system i.e gradio interface
 - SQL Generation: Based on the parsed query, the LLM Model generates corresponding SQL queries.
 - Database Interaction: The generated SQL queries are executed against the specified database.
