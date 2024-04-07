@@ -2,13 +2,13 @@
 <h3>Overview</h3>
 This project aims to facilitate the conversion of natural human language queries into SQL queries, allowing users to interact with databases more intuitively. With this tool, users can input plain English queries and receive SQL queries as output, along with the result of executing these SQL queries in a plain text format.
 
-<h3>Features</h3>
+## <h3>Features</h3>
 
 - Natural Language Understanding: The system is capable of understanding natural language queries, parsing them to identify key entities and operations.
 - SQL Query Generation: Once the natural language query is understood, the system generates SQL queries that capture the user's intent.
 - Database Interaction: The generated SQL queries are executed against a specified database, and the results are returned in a plain text format for easy understanding.
 
-<h3>Usage</h3>
+## <h3>Usage</h3>
 
 - Input: Users provide a natural language query as input to the system i.e gradio interface
 - SQL Generation: Based on the parsed query, the LLM Model generates corresponding SQL queries.
@@ -21,3 +21,14 @@ This project aims to facilitate the conversion of natural human language queries
 
 A sample snapshot of the output generated can be seen here:
 ![Text-to-SQL](https://github.com/OmkarChoulwar/SpeakToSQL/assets/55315055/65682c55-b10a-44b2-be0d-2ba7ec40378b)
+
+
+## Impact
+
+- **Improved User Experience**: Enhancing accessibility to databases can improve user satisfaction and adoption rates.
+- **Increased Productivity**: Empowering non-technical users to query databases independently can lead to faster decision-making and increased productivity.
+- **Faster Insights**: Streamlining the process of extracting insights from data can accelerate decision-making processes.
+
+- **Competitive Advantage**: Accelerated data analysis capabilities can provide a competitive edge by enabling more agile decision-making.
+- **Scalability**: The tool can scale effectively across large organizations with diverse user bases, ensuring broad accessibility to data insights.
+
